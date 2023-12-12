@@ -39,6 +39,6 @@ dotnet run
 
 ## Contact
 
-Questions or thoughts? Reach out to me at [ch.hsyahmedgoheer@hotmail.com](mailto:ch.hsyahmedgoheer@hotmail.com)..
+Questions or thoughts? Reach out to me at [ch.hsyahmedgoheer@hotmail.com](mailto:ch.hsyahmedgoheer@hotmail.com).
 
 Thank you for visiting my C# and .NET Core practice repository!
