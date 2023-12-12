@@ -23,5 +23,22 @@ To dive into these projects, ensure you have the following installed:
 
 Clone this repository to explore the projects:
 
-```bash
+```
 git clone https://github.com/Hasnat-Ahmed-Goheer/.NETCORE-practice.git
+```
+To check out a specific project branch, use:
+```
+git checkout [branch-name]
+# or
+git switch [branch-name]
+```
+### Running the Projects
+```
+dotnet run
+```
+
+## Contact
+
+Questions or thoughts? Reach out to me at [ch.hsyahmedgoheer@hotmail.com](mailto:ch.hsyahmedgoheer@hotmail.com)..
+
+Thank you for visiting my C# and .NET Core practice repository!
