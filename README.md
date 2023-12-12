@@ -1,4 +1,7 @@
 # C# and .NET Core Practice Repository
+![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Auth-form?color=blue)
+![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Auth-form?label=Last%20Updated&color=yellow)
+
 
 Welcome to my C# and .NET Core practice repository! This space is dedicated to my journey in learning and mastering C# and .NET Core. It contains a variety of projects, exercises, and examples that showcase my progress and the skills I've developed.
 
