@@ -1,8 +1,14 @@
 # C# and .NET Core Practice Repository
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Hasnat-Ahmed-Goheer/.NETCore-practice)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/.NETCore-practice?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer/.NETCore-practice)
+![GitHub forks](https://img.shields.io/github/forks/Hasnat-Ahmed-Goheer/.NETCore-practice)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hasnat-Ahmed-Goheer/.NETCore-practice)
+
+
 ![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/.NETCore-practice?label=Last%20Updated&color=yellow)
 ![Status](https://img.shields.io/badge/Status-In_Progress-red)
-
 
 Welcome to my C# and .NET Core practice repository! This space is dedicated to my journey in learning and mastering C# and .NET Core. It contains a variety of projects, exercises, and examples that showcase my progress and the skills I've developed.
 
