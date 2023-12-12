@@ -29,7 +29,7 @@ git clone https://github.com/Hasnat-Ahmed-Goheer/.NETCORE-practice.git
 To check out a specific project branch, use:
 ```
 git checkout [branch-name]
-# or
+or
 git switch [branch-name]
 ```
 ### Running the Projects
