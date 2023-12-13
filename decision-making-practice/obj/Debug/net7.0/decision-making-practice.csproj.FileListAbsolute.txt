@@ -1,0 +1,14 @@
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\obj\Debug\net7.0\decision-making-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\obj\Debug\net7.0\decision-making-practice.AssemblyInfoInputs.cache
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\obj\Debug\net7.0\decision-making-practice.AssemblyInfo.cs
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\obj\Debug\net7.0\decision-making-practice.csproj.CoreCompileInputs.cache
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\bin\Debug\net7.0\decision-making-practice.exe
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\bin\Debug\net7.0\decision-making-practice.deps.json
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\bin\Debug\net7.0\decision-making-practice.runtimeconfig.json
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\bin\Debug\net7.0\decision-making-practice.dll
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\bin\Debug\net7.0\decision-making-practice.pdb
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\obj\Debug\net7.0\decision-making-practice.dll
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\obj\Debug\net7.0\refint\decision-making-practice.dll
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\obj\Debug\net7.0\decision-making-practice.pdb
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\obj\Debug\net7.0\decision-making-practice.genruntimeconfig.cache
+C:\Users\chhsy\OneDrive\Documents\My Projects\New folder\.NETCore-practice\decision-making-practice\obj\Debug\net7.0\ref\decision-making-practice.dll
